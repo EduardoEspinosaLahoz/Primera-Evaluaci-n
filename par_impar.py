@@ -3,8 +3,7 @@ def par_impar():
     if(numero%2==0):
         print ("Par")
     else:
-        if(numero %2==1):
-            print("Impar")
+        print("Impar")
             
    
 
