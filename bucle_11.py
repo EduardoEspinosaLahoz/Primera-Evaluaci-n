@@ -1,6 +1,6 @@
 def bucle_11():
     print"************************"
-    print"* SUMA PARES E IMPARES *"
+    print"* SUMA PARES O IMPARES *"
     print"************************"
 
     #Suma de numeros pares e impares
